@@ -1,0 +1,1 @@
+# anki-dock-generator
